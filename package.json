@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^5.2.5",
+    "@types/webdriverio": "^4.10.3",
+    "appium": "^1.9.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "typescript": "^3.0.3",
+    "wdio-appium-service": "^0.2.3",
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-spec-reporter": "^0.1.5",
+    "webdriverio": "^4.13.2"
+  },
+  "dependencies": {}
+}
